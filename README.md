@@ -99,6 +99,7 @@ Many community members post technical questions using the `mapbox` tag on StackO
 ### Data
 
 - [geojson.xyz](http://geojson.xyz/) - A simple, open source website, CDN, and CLI utility for the fast access of GeoJSON data for web mapping examples and experiments
+- [Mercator](https://mercator.blue/) - Gridded earth data (weather, ocean, air quality, elevation) as value-encoded Web Mercator tiles, with an open-source Mapbox SDK for colormapped rasters, wind and current streamlines, arrows and contours.
 
 **Related lists**
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
